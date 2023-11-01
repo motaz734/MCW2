@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954858048597",
+    "project_id": "mobile-cw2-a7bce",
+    "storage_bucket": "mobile-cw2-a7bce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954858048597:android:29619547346544a18c98dc",
+        "android_client_info": {
+          "package_name": "com.Mobile.CW2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJUrCeD8Zni_vYr7sqBH158Bl1yKNfH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
